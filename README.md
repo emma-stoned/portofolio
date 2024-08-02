@@ -2,6 +2,11 @@
 
 Welcome to the repository for my web portfolio! This project showcases my skills and projects, providing an overview of my work as a developer.
 
+## Important Note
+
+This repository contains the raw/template  of my web portfolio. The live version of the website, which includes all dynamic features and functionalities, is hosted on PythonAnywhere. To view the live version, please visit [https://zinta.pythonanywhere.com](https://zinta.pythonanywhere.com).
+
+
 ## Features
 
 - **Responsive Design**: The website is fully responsive and works seamlessly on all devices.
@@ -45,8 +50,4 @@ To run this project locally:
 
 ## Contact
 
-Feel free to contact me via the contact form on the website or through my email: [your-email@example.com](mailto:your-email@example.com).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to contact me via the contact form on the live website or through my email: [your-email@example.com](mailto:your-email@example.com).
